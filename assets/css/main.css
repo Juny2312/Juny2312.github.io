@@ -2707,14 +2707,14 @@ input, select, textarea {
 
 		input[type="checkbox"] + label:before,
 		input[type="radio"] + label:before {
-			border-color: #eeeeee;
+			border-color: #fffbfb00;
 		}
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #212931;
-		border-color: #212931;
-		color: #ffffff;
+		background-color: #00000000;
+		border-color: #00000000;
+		color: #00000000;
 	}
 
 	input[type="checkbox"]:focus + label:before,
